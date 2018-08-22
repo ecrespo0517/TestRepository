@@ -1,0 +1,31 @@
+body {
+    background-color: SILVER;
+}
+.container-div{
+    background-color: white;
+    width:500px;
+    text-align:center;
+}
+h1 {
+    color: red;
+}
+
+.green-text {
+    color: green;
+    font-weight: bold;
+}
+
+.Blue-underlined-text {
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.blue-heading {
+    color: blue;
+    text-transform: lowercase;
+}
+
+.link-no-underline {
+    text-decoration: none;
+}
